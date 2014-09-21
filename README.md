@@ -1,5 +1,8 @@
 awesome links
 =====
 
-[bareconductive](http://www.bareconductive.com/)
+## printed electronics
+
+# eInk
+[bareconductive](http://www.bareconductive.com/) condactive ink
 
