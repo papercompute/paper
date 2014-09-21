@@ -1,5 +1,5 @@
 awesome links
 =====
 
-(bareconductive)[http://www.bareconductive.com/]
+[bareconductive](http://www.bareconductive.com/)
 
