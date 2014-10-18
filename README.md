@@ -4,5 +4,7 @@
 
 [PyCoRAM](http://shtaxxx.github.io/PyCoRAM/)
 
+[high-level synthesis tool](http://www.nkavvadias.com/hercules/)
+
 
 
