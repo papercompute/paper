@@ -6,5 +6,7 @@
 
 [high-level synthesis tool](http://www.nkavvadias.com/hercules/)
 
+[verificationacademy.com](https://verificationacademy.com/)
+
 
 
