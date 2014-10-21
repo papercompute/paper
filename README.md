@@ -8,4 +8,6 @@
 
 [verificationacademy.com](https://verificationacademy.com/)
 
+[Dijkstra’s Algorithm](http://www.gamedev.net/page/resources/_/technical/artificial-intelligence/dijkstras-algorithm-shortest-path-r3872)
+
 
