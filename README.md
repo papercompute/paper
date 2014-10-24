@@ -11,3 +11,4 @@
 [Dijkstra’s Algorithm](http://www.gamedev.net/page/resources/_/technical/artificial-intelligence/dijkstras-algorithm-shortest-path-r3872)
 
 
+[FPGA architecture and CAD research and development](http://code.google.com/p/vtr-verilog-to-routing/)
