@@ -15,3 +15,6 @@
 
 - FPGA research
   - [FPGA architecture and CAD research and development](http://code.google.com/p/vtr-verilog-to-routing/)
+
+- CAD/EDA online
+  - [edaplayground](http://www.edaplayground.com)
