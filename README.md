@@ -18,3 +18,6 @@
 
 - CAD/EDA online
   - [edaplayground](http://www.edaplayground.com)
+
+- AI
+  - [deepmind](http://deepmind.com/)
