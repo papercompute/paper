@@ -21,7 +21,7 @@
 
 - Synth R&D
   - [Yosys - A Free Verilog Synthesis Suite](http://www.clifford.at/yosys/files/yosys_presentation.pdf)
-    -[show](http://www.clifford.at/yosys/files/yosys_appnote_011_design_investigation.pdf) 
+    - [show](http://www.clifford.at/yosys/files/yosys_appnote_011_design_investigation.pdf) 
 
 - AI
   - [deepmind](http://deepmind.com/)
