@@ -19,6 +19,9 @@
 - CAD/EDA online
   - [edaplayground](http://www.edaplayground.com)
 
+- Synth R&D
+  - [Yosys - A Free Verilog Synthesis Suite](http://www.clifford.at/yosys/files/yosys_presentation.pdf)
+
 - AI
   - [deepmind](http://deepmind.com/)
 - UI
