@@ -30,3 +30,6 @@
   
 - Bigdata
   - [spark-summit.org](http://spark-summit.org/2014)
+
+- Gamedev
+  - [tizen game development](https://wiki.tizen.org/wiki/Game_development)
