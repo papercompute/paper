@@ -33,3 +33,5 @@
 
 - Gamedev
   - [tizen game development](https://wiki.tizen.org/wiki/Game_development)
+- Java
+  - [java performance](http://java-performance.info/large-hashmap-overview-jdk-fastutil-goldman-sachs-hppc-koloboke-trove)
