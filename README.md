@@ -21,7 +21,9 @@
 
 - Synth R&D
   - [Yosys - A Free Verilog Synthesis Suite](http://www.clifford.at/yosys/files/yosys_presentation.pdf)
-    - [show](http://www.clifford.at/yosys/files/yosys_appnote_011_design_investigation.pdf) 
+    - [show](http://www.clifford.at/yosys/files/yosys_appnote_011_design_investigation.pdf)
+  - [The Verilog-to-Routing (VTR) Project for FPGAs](https://code.google.com/p/vtr-verilog-to-routing/)
+    - [show](file:///home/alex/Downloads/VPR_R2.pdf)
 
 - AI
   - [deepmind](http://deepmind.com/)
