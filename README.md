@@ -24,6 +24,7 @@
     - [show](http://www.clifford.at/yosys/files/yosys_appnote_011_design_investigation.pdf)
   - [The Verilog-to-Routing (VTR) Project for FPGAs](https://code.google.com/p/vtr-verilog-to-routing/)
   - [Architecture Description and Packing for Logic Blocks with Hierarchy, Modes and Complex Interconnect](http://www.eecg.utoronto.ca/~jluu/publications/luu_vpr_fpga2011.pdf)
+  - [A Tutorial on FPGA Routing ](http://www.gstitt.ece.ufl.edu/courses/eel4720_5721/reading/Routing.pdf)
 
   
 - AI
