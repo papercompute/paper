@@ -42,3 +42,6 @@
 - Embedded/OS
   - [Embox is an open source real-time operating system designed for resource constrained hardware as well as a set of tools for developing embedded applications](https://code.google.com/p/embox/wiki/Kernel)
   - [Многозадачность в ядре Linux: прерывания и tasklet’ы](http://habrahabr.ru/post/244071/)
+
+- DB
+  - [CRATE: Your Elastic Data Store](https://github.com/crate/crate)
