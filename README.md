@@ -56,3 +56,6 @@
   - [CRATE: Your Elastic Data Store](https://github.com/crate/crate)
 - Analytics
   - [State of the App: 2014 Review & 2015 Predictions](http://info.localytics.com/hs-fs/hub/367525/file-2163623293-pdf/End_of_Year_Reports/StateOfTheApp2014Review2015Predictions.pdf)
+- Javascript
+  - [a-dive-into-plain-javascript](http://blog.adtile.me/2014/01/16/a-dive-into-plain-javascript/)
+  
