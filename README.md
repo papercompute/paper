@@ -59,3 +59,5 @@
 - Javascript
   - [a-dive-into-plain-javascript](http://blog.adtile.me/2014/01/16/a-dive-into-plain-javascript/)
   
+- People
+  - [http://www.stepanovpapers.com/](http://www.stepanovpapers.com/)
