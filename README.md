@@ -78,3 +78,6 @@
 
 - P2P
   - [KadOH - Javascript P2P framework](http://jinroh.github.io/kadoh/)
+  
+- nodejs
+  - [eskimo.io/](http://eskimo.io/)
