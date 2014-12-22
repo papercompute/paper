@@ -47,6 +47,10 @@
   - [Predictive-Analytics-Power-Predict-Click](http://www.amazon.com/Predictive-Analytics-Power-Predict-Click/dp/1118356853)
   - [languages-analytics-data-mining-data-science](http://www.kdnuggets.com/polls/2014/languages-analytics-data-mining-data-science.html)
 
+- Data science & bigdata challanges
+  - [kdd](http://www.sigkdd.org/kddcup/index.php)
+  - [kaggle](https://www.kaggle.com/)
+  
 - Gamedev
   - [tizen game development](https://wiki.tizen.org/wiki/Game_development)
   - [ voxel engine Voxlap](http://advsys.net/ken/voxlap.htm)
