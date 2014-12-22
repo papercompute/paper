@@ -38,6 +38,14 @@
   
 - Bigdata
   - [spark-summit.org](http://spark-summit.org/2014)
+  - [Mining of Massive Datasets](http://www.mmds.org/)
+  - [dataconomy.com/10-online-big-data-courses/](http://dataconomy.com/10-online-big-data-courses/)
+   
+- Data science
+  - [julialang.org/](http://julialang.org/)
+  - [The-Signal-Noise-Many-Predictions](http://www.amazon.com/The-Signal-Noise-Many-Predictions/dp/159420411X)
+  - [Predictive-Analytics-Power-Predict-Click](http://www.amazon.com/Predictive-Analytics-Power-Predict-Click/dp/1118356853)
+  - [languages-analytics-data-mining-data-science](http://www.kdnuggets.com/polls/2014/languages-analytics-data-mining-data-science.html)
 
 - Gamedev
   - [tizen game development](https://wiki.tizen.org/wiki/Game_development)
