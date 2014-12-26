@@ -91,3 +91,4 @@
   
 - web apps
   - [lhorie.github.io/mithril/](http://lhorie.github.io/mithril/)
+  - [vdom bench](https://localvoid.github.io/vdom-benchmark/)
