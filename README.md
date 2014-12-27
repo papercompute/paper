@@ -92,3 +92,6 @@
 - web apps
   - [lhorie.github.io/mithril/](http://lhorie.github.io/mithril/)
   - [vdom bench](https://localvoid.github.io/vdom-benchmark/)
+
+- hitech business
+  - [Visual Science](http://www.the-village.ru/village/hopesandfears/sdelal/172043-vizual-sayens)
