@@ -95,3 +95,6 @@
 
 - hitech business
   - [Visual Science](http://www.the-village.ru/village/hopesandfears/sdelal/172043-vizual-sayens)
+  
+- data science
+  - [top-10-data-science-skills-and-how-to-learn-them](http://dataconomy.com/top-10-data-science-skills-and-how-to-learn-them/)
