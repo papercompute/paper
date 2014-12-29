@@ -101,3 +101,4 @@
 
 - sk
  - [sk](http://itar-tass.com/skolkovo/1674791)
+ - [angl](http://slon.ru/specials/angels-top/)
