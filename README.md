@@ -98,3 +98,6 @@
   
 - data science
   - [top-10-data-science-skills-and-how-to-learn-them](http://dataconomy.com/top-10-data-science-skills-and-how-to-learn-them/)
+
+- sk
+ - [sk](http://itar-tass.com/skolkovo/1674791)
