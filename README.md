@@ -102,3 +102,6 @@
 - sk
  - [sk](http://itar-tass.com/skolkovo/1674791)
  - [angl](http://slon.ru/specials/angels-top/)
+
+- python/django
+  - [python](http://habrahabr.ru/post/247067/)
