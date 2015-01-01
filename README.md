@@ -110,3 +110,4 @@
 
 - Hadoop
   - [how-to-write-apache-hadoop-applications-on-openshift-with-kite-sdk](http://blog.cloudera.com/blog/2014/10/how-to-write-apache-hadoop-applications-on-openshift-with-kite-sdk/)
+  - [top-ten-popular-blogs-2014](http://hortonworks.com/blog/top-ten-popular-blogs-2014/)
