@@ -107,3 +107,6 @@
   - [python](http://habrahabr.ru/post/247067/)
 - sound
   - [productive music](https://soundcloud.com/geron52)
+
+- Hadoop
+  - [how-to-write-apache-hadoop-applications-on-openshift-with-kite-sdk](http://blog.cloudera.com/blog/2014/10/how-to-write-apache-hadoop-applications-on-openshift-with-kite-sdk/)
