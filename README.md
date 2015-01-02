@@ -111,3 +111,6 @@
 - Hadoop
   - [how-to-write-apache-hadoop-applications-on-openshift-with-kite-sdk](http://blog.cloudera.com/blog/2014/10/how-to-write-apache-hadoop-applications-on-openshift-with-kite-sdk/)
   - [top-ten-popular-blogs-2014](http://hortonworks.com/blog/top-ten-popular-blogs-2014/)
+  
+- ionic
+  - [Make your Angular app a max security prison by Matias Woloski & Martin Gontovnikas at ng-europe 2014](https://www.youtube.com/watch?v=lDb_GANDR8U&list=UUEGUP3TJJfMsEM_1y8iviSQ#t=15)
