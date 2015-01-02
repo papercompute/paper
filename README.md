@@ -114,3 +114,6 @@
   
 - ionic
   - [Make your Angular app a max security prison by Matias Woloski & Martin Gontovnikas at ng-europe 2014](https://www.youtube.com/watch?v=lDb_GANDR8U&list=UUEGUP3TJJfMsEM_1y8iviSQ#t=15)
+
+- js / es
+  - [es6features](https://github.com/lukehoban/es6features)
