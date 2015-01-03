@@ -127,3 +127,6 @@
   - [producthunt.com/collections](http://www.producthunt.com/collections)
 - startup idea
   - [20 Questions You Can Ask to Validate Your Startup Idea](http://www.entrepreneur.com/article/241122)
+
+- angular.js
+  - [Practical Angular JS - CodeMash 2015](https://www.youtube.com/playlist?list=PLIdFBvsYFxr6FMPKHWSVsiqfGHnq4A8Dm)
