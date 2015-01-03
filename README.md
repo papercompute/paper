@@ -122,3 +122,6 @@
   - [visionmedia.github.io/page.js/](http://visionmedia.github.io/page.js/)
 - design
   - [design-trends-2015/](http://siliconrus.com/2015/01/design-trends-2015/)
+
+- product hunt
+  - [producthunt.com/collections](http://www.producthunt.com/collections)
