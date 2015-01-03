@@ -120,3 +120,5 @@
 
 - html5
   - [visionmedia.github.io/page.js/](http://visionmedia.github.io/page.js/)
+- design
+  - [design-trends-2015/](http://siliconrus.com/2015/01/design-trends-2015/)
