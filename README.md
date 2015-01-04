@@ -134,3 +134,10 @@
 - envato market
   - [market.envato.com/](http://market.envato.com/)
   - [edgerotater-a-3d-interface-for-edge-animate/9510545](http://codecanyon.net/item/edgerotater-a-3d-interface-for-edge-animate/9510545)
+
+- hackathons
+  - [gophergala.com](www.gophergala.com)
+  - [staticshowdown.com/](http://www.staticshowdown.com/)
+  - [railsrumble.com/](http://railsrumble.com/)
+  - [nodeknockout.com/](http://nodeknockout.com/)
+  - [djangodash.com/](http://djangodash.com/)
