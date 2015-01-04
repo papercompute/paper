@@ -144,3 +144,6 @@
 
 - art
   - [ArtStudying.Com youtube playlist](https://www.youtube.com/user/WwwSkulptuRu/playlists)
+
+- js/css animation
+  - [github.com/greensock/GreenSock-JS/](https://github.com/greensock/GreenSock-JS/)
