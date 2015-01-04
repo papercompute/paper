@@ -141,3 +141,6 @@
   - [railsrumble.com/](http://railsrumble.com/)
   - [nodeknockout.com/](http://nodeknockout.com/)
   - [djangodash.com/](http://djangodash.com/)
+
+- art
+  - [ArtStudying.Com youtube playlist](https://www.youtube.com/user/WwwSkulptuRu/playlists)
