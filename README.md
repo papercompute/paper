@@ -148,3 +148,7 @@
 - js/css animation
   - [github.com/greensock/GreenSock-JS/](https://github.com/greensock/GreenSock-JS/)
   - [cdnjs.com/](https://cdnjs.com/)
+
+- data visualization
+  - [the-best-data-visualization-projects-of-2014/](http://te-st.ru/2014/12/26/the-best-data-visualization-projects-of-2014/)
+  
