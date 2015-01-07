@@ -154,3 +154,8 @@
   
 - drones
   - [travelbydrone.com/best2014](http://travelbydrone.com/best2014)
+   
+- html5 gamedev
+  - [babylonjs.com/](http://www.babylonjs.com/)
+  - [pixijs.com](http://pixijs.com)
+  - [http://phaser.io](http://phaser.io)
