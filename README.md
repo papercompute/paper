@@ -164,3 +164,6 @@
   
 - p2p webrtc
   - [multiplayer-tutorial](https://www.scirra.com/tutorials/892/multiplayer-tutorial-1-concepts/page-3)
+
+- tech blogs
+  - [natsys-lab](http://natsys-lab.blogspot.ru/2013/03/whats-wrong-with-sockets-performance.html)
