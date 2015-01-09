@@ -167,3 +167,6 @@
 
 - tech blogs
   - [natsys-lab](http://natsys-lab.blogspot.ru/2013/03/whats-wrong-with-sockets-performance.html)
+
+- bigdata
+  - [idc-highlights-top-big-data-trends-for-2015/](http://siliconangle.com/blog/2014/12/23/idc-highlights-top-big-data-trends-for-2015/)
