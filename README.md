@@ -171,3 +171,9 @@
 - bigdata
   - [idc-highlights-top-big-data-trends-for-2015/](http://siliconangle.com/blog/2014/12/23/idc-highlights-top-big-data-trends-for-2015/)
   - [the-hitchhikers-guide-to-machine-learning-with-python-apache-spark](http://www.slideshare.net/ksankar/the-hitchhikers-guide-to-machine-learning-with-python-apache-spark)
+
+- analythics
+  - [http://www.bayesia.com/](http://www.bayesia.com/)
+  - [http://www.greenteapress.com/thinkbayes/](http://www.greenteapress.com/thinkbayes/)
+  - [http://www.bayesianrisk.com/](http://www.bayesianrisk.com/)
+  
