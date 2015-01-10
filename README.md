@@ -178,3 +178,5 @@
   - [http://www.greenteapress.com/thinkbayes/](http://www.greenteapress.com/thinkbayes/)
   - [http://www.bayesianrisk.com/](http://www.bayesianrisk.com/)
   
+- pf_ring
+  - [http://wiki.aanval.com/](http://wiki.aanval.com/)
