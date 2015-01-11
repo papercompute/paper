@@ -184,3 +184,6 @@
 - hadoop
   - [cloudera/en/training/certification/ccdh/prep.html](http://cloudera.com/content/cloudera/en/training/certification/ccdh/prep.html)
   - [http://hadooptutorial.info/](http://hadooptutorial.info/)
+
+- decentralized
+  - [http://techcrunch.com/2015/01/10/decentralize-all-the-things/](http://techcrunch.com/2015/01/10/decentralize-all-the-things/)
