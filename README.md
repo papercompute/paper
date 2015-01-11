@@ -187,3 +187,6 @@
 
 - decentralized
   - [http://techcrunch.com/2015/01/10/decentralize-all-the-things/](http://techcrunch.com/2015/01/10/decentralize-all-the-things/)
+
+- erlang
+  - [https://synrc.com/apps/n2o/](https://synrc.com/apps/n2o/)
