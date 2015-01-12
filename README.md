@@ -162,7 +162,7 @@
   - [http://phaser.io](http://phaser.io)
   - [upsidedownturtle.com/boredboredbored/](http://upsidedownturtle.com/boredboredbored/)
   - [p2.js](http://schteppe.github.io/p2.js/demos/car.html)
-  
+  - [Making-Games-for-the-Amazon-Appstore-Part-1-Picking-a-Framework](https://developer.amazon.com/public/community/post/TxKTLT6FHDFKU8/Making-Games-for-the-Amazon-Appstore-Part-1-Picking-a-Framework)
 - p2p webrtc
   - [multiplayer-tutorial](https://www.scirra.com/tutorials/892/multiplayer-tutorial-1-concepts/page-3)
 
