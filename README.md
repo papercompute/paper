@@ -194,3 +194,6 @@
   - [https://synrc.com/apps.htm](https://synrc.com/apps.htm)
 - http
   - [http-kit.org/600k-concurrent-connection-http-kit.html](http://www.http-kit.org/600k-concurrent-connection-http-kit.html)
+
+- version
+  - [semver](http://semver.org/lang/ru/)
