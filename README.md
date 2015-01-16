@@ -197,3 +197,6 @@
 
 - version
   - [semver](http://semver.org/lang/ru/)
+
+- java netty
+  - [http://netty.io/wiki/related-articles.html](http://netty.io/wiki/related-articles.html)
