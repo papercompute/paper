@@ -200,3 +200,6 @@
 
 - java netty
   - [http://netty.io/wiki/related-articles.html](http://netty.io/wiki/related-articles.html)
+
+- futuristic ui
+  - [fui-hud-sci-fi/](https://www.pinterest.com/denisefremov/fui-hud-sci-fi/)
