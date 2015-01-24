@@ -210,3 +210,6 @@
    
 - hardware
   - [clock-jargon-important-terms](http://anysilicon.com/clock-jargon-important-terms/)
+
+- challenges
+  -[challengepost.com/](http://challengepost.com/)
