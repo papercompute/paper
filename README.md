@@ -207,3 +207,6 @@
 
 - blog
   - [http://www.ianlewis.org/](http://www.ianlewis.org/)
+   
+- hardware
+  - [clock-jargon-important-terms](http://anysilicon.com/clock-jargon-important-terms/)
