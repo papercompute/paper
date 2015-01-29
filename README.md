@@ -212,4 +212,7 @@
   - [clock-jargon-important-terms](http://anysilicon.com/clock-jargon-important-terms/)
 
 - challenges
-  -[challengepost.com/](http://challengepost.com/)
+  - [challengepost.com/](http://challengepost.com/)
+
+- business growth startup
+  - [how-to-go-from-0-to-75000mo-without-taking-on-an-investor-or-hiring-a-single-employee/](http://venturebeat.com/2014/11/02/how-to-go-from-0-to-75000mo-without-taking-on-an-investor-or-hiring-a-single-employee/)
