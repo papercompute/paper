@@ -219,3 +219,6 @@
 
 - design
   - [http://codepen.io/osublake/pen/RNLdpz](http://codepen.io/osublake/pen/RNLdpz)
+  
+- neural nets
+  - [http://aigamedev.com/broadcasts/session-nnintro/](http://aigamedev.com/broadcasts/session-nnintro/)
