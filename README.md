@@ -222,3 +222,6 @@
   
 - neural nets
   - [http://aigamedev.com/broadcasts/session-nnintro/](http://aigamedev.com/broadcasts/session-nnintro/)
+
+- CONCURRENCY
+  - [http://vijayrc.com/vectorclocks/post/thread3#.VNSPAeuUdOB](http://vijayrc.com/vectorclocks/post/thread3#.VNSPAeuUdOB)
