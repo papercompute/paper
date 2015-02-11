@@ -228,4 +228,5 @@
 
 - javascript
   - [frameworkless-javascript.html](https://muut.com/blog/technology/frameworkless-javascript.html)
-  - [http://basisjs.com/](http://basisjs.com/)
+  - [basisjs.com/](http://basisjs.com/)
+  - [yielding-from-an-iterator-callback-used-inside-a-generator](http://quabr.com/24967314/yielding-from-an-iterator-callback-used-inside-a-generator)
