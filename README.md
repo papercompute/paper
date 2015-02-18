@@ -240,3 +240,6 @@
 - cool
   - [http://ain.ua/2015/02/17/562478](http://ain.ua/2015/02/17/562478)
   - [http://coevolution.io/](http://coevolution.io/)
+
+- java
+  - [https://www.youtube.com/watch?v=o2NlExtF5iE](https://www.youtube.com/watch?v=o2NlExtF5iE)
