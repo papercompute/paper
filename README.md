@@ -250,3 +250,6 @@
 
 - webgl
   google-chrome --disable-gpu-sandbox
+
+- deep learning
+  - [caffe.berkeleyvision.org/](http://caffe.berkeleyvision.org/)
