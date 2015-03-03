@@ -253,3 +253,7 @@
 
 - deep learning
   - [caffe.berkeleyvision.org/](http://caffe.berkeleyvision.org/)
+
+- nginx
+  - [microservices-at-netflix-architectural-best-practices](http://nginx.com/blog/microservices-at-netflix-architectural-best-practices/)
+  
