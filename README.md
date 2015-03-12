@@ -262,6 +262,7 @@
 
 - nodejs
   - [Treeline makes it easy to build custom, high-performance apps for Node.js.](https://treeline.io/)
+  - [Scalable Cloud Solutions with Node.js ](https://www.youtube.com/watch?v=KL5GnchGfzQ)  
 
 - web
   -[what-happens-when](https://github.com/alex/what-happens-when/blob/master/README.rst)
