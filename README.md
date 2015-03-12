@@ -263,6 +263,8 @@
 - nodejs
   - [Treeline makes it easy to build custom, high-performance apps for Node.js.](https://treeline.io/)
   - [Scalable Cloud Solutions with Node.js ](https://www.youtube.com/watch?v=KL5GnchGfzQ)  
+- js 
+  - [Promise](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Promise) 
 
 - web
   -[what-happens-when](https://github.com/alex/what-happens-when/blob/master/README.rst)
