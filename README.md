@@ -257,3 +257,5 @@
 - nginx
   - [microservices-at-netflix-architectural-best-practices](http://nginx.com/blog/microservices-at-netflix-architectural-best-practices/)
   
+- bigdata
+  - [cleverdata](https://www.youtube.com/watch?v=85il_puoqD8)
