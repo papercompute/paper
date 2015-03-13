@@ -267,4 +267,7 @@
   - [Promise](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Promise) 
 
 - web
-  -[what-happens-when](https://github.com/alex/what-happens-when/blob/master/README.rst)
+  - [what-happens-when](https://github.com/alex/what-happens-when/blob/master/README.rst)
+
+- git
+  - [git mergin vs rebasing](https://www.atlassian.com/git/tutorials/merging-vs-rebasing/)
